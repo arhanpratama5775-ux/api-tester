@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+request_history.json
+.DS_Store
